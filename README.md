@@ -6,4 +6,3 @@ comp367
 
 section 401
 
-question3
